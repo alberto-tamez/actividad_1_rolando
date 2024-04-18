@@ -28,7 +28,7 @@ Asegúrate de tener instalado Node.js (v12 o superior) y npm (v6 o superior) en 
 1. Clona el repositorio
 
 ```
-git clone https://tudireccionderepositorioaqui.git
+git clone [https://github.com/alberto-tamez/actividad_1_rolando.git](https://github.com/alberto-tamez/actividad_1_rolando.git)
 cd actividad_1_rolando
 ```
 
